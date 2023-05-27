@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+    font-family: Arial;
+}
+
+html {
+    background-color: #DCDCDC;
+}
